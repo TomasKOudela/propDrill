@@ -1,0 +1,25 @@
+.bgred {
+  background: red;
+}
+.bggreen {
+  background: green;
+}
+.bgblue {
+  background: blue;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+
+h2 {
+  margin-left: 50px;
+}
+h3 {
+  font-size: 25px;
+}
+
+div {
+  margin-left: 100px;
+}
